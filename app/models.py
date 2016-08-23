@@ -5,3 +5,7 @@ from django.db import models
 
 class M5(models.Model):
     f = models.IntegerField()
+
+class M1(models.Model):
+    f = models.IntegerField()
+
